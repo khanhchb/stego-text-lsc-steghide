@@ -1,1 +1,0 @@
-Start extracting bit from the 3rd line of PDF file
